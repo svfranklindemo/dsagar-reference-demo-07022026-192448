@@ -1,22 +1,22 @@
 {
   "mappings": [
-    "/content/wknd-universal/language-masters/en:/",
-    "/content/wknd-universal/language-masters/en/:/en/",
-    "/content/wknd-universal/language-masters/fr/:/fr/",
-    "/content/wknd-universal/language-masters/fr:/fr",
-    "/content/wknd-universal/language-masters/es/:/es/",
-    "/content/wknd-universal/language-masters/es:/es",
-    "/content/wknd-universal/language-masters/ja/:/ja/",
-    "/content/wknd-universal/language-masters/ja:/ja",
-    "/content/wknd-universal/language-masters/de/:/de/",
-    "/content/wknd-universal/language-masters/de:/de",
-    "/content/wknd-universal/configuration:/.helix/config.json",
-    "/content/wknd-universal/metadata:/metadata.json",
-    "/content/wknd-universal/redirects:/redirects.json",
-    "/content/wknd-universal/placeholders:/placeholders.json"
+    "/content/dsagar-Projects/language-masters/en:/",
+    "/content/dsagar-Projects/language-masters/en/:/en/",
+    "/content/dsagar-Projects/language-masters/fr/:/fr/",
+    "/content/dsagar-Projects/language-masters/fr:/fr",
+    "/content/dsagar-Projects/language-masters/es/:/es/",
+    "/content/dsagar-Projects/language-masters/es:/es",
+    "/content/dsagar-Projects/language-masters/ja/:/ja/",
+    "/content/dsagar-Projects/language-masters/ja:/ja",
+    "/content/dsagar-Projects/language-masters/de/:/de/",
+    "/content/dsagar-Projects/language-masters/de:/de",
+    "/content/dsagar-Projects/configuration:/.helix/config.json",
+    "/content/dsagar-Projects/metadata:/metadata.json",
+    "/content/dsagar-Projects/redirects:/redirects.json",
+    "/content/dsagar-Projects/placeholders:/placeholders.json"
   ],
   "includes": [
-    "/content/wknd-universal/",
-    "/content/dam/wknd-universal/"
+    "/content/dsagar-Projects/",
+    "/content/dam/dsagar-Projects/"
   ]
 }
